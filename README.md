@@ -1,6 +1,6 @@
 # 🎥 Netflix 2023 Web Page
 
-🚀 A modern and responsive web page inspired by Netflix, built using **HTML** and **CSS**.
+🚀 A Basic and responsive web page inspired by Netflix, built using **HTML** and **CSS**.
 
 ---
 
